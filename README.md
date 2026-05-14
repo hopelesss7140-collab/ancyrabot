@@ -1,2 +1,0 @@
-# ancyrabot
-Ancyra Bot
